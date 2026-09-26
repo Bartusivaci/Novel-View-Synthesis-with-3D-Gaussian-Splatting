@@ -1,0 +1,1 @@
+{"loader": "colmap", "loader_kwargs": {"images_path": "images_2", "colmap_path": "sparse_2/0"}, "id": "mipnerf360", "scene": "bonsai", "downscale_factor": 2, "evaluation_protocol": "nerf", "type": "object-centric", "version": "1"}
