@@ -1,0 +1,17 @@
+{
+  "experiment_name": "bonsai",
+  "method_name": "splatfacto",
+  "checkpoint": "outputs\\bonsai\\splatfacto\\2026-09-24_113019\\nerfstudio_models\\step-000029999.ckpt",
+  "results": {
+    "psnr": 31.544055938720703,
+    "psnr_std": 2.795158624649048,
+    "ssim": 0.9362951517105103,
+    "ssim_std": 0.015564876608550549,
+    "lpips": 0.13842996954917908,
+    "lpips_std": 0.030821185559034348,
+    "num_rays_per_sec": 27849240.0,
+    "num_rays_per_sec_std": 4647873.0,
+    "fps": 17.19300079345703,
+    "fps_std": 2.8694097995758057
+  }
+}

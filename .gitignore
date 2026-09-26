@@ -2,10 +2,8 @@
 data/
 
 
-
-# Training outputs / checkpoints
-outputs/
-
+# Renders
+renders/
 
 
 # Python
